@@ -1,0 +1,1 @@
+=OR(IFERROR(FIND("路",D2)>0,0), IFERROR(FIND("道",D2)>0,0),IFERROR( FIND("村",D2)>0,0))
